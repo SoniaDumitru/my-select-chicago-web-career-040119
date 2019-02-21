@@ -6,7 +6,7 @@ while i < collection.length
       new_array.push(collection[i])
     end
   i += 1
-  end
+end
 new_array
 end
 end
